@@ -1,0 +1,9 @@
+class SudokuPuzzle < ApplicationRecord
+end
+  
+
+
+
+
+
+
